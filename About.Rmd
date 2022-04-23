@@ -1,0 +1,28 @@
+---
+#title: "About"
+#author: "A.Carmichael"
+#date: '2022-04-22'
+output: html_document
+---
+
+<style type="text/css">
+  body{
+  font-size: 14pt;
+}
+</style>
+
+
+## Oven Roast Calculator
+
+Thanks for trying the Oven Roast Calculator aka _Roasticulator_.
+
+The data used to calculate cooking time came from [Canada Beef](https://canadabeef.ca/oven-roast-know-how/)
+
+The code for this project and others can be found at [Github](https://github.com/acarmichael20)
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/alec-carmichael/)
+
+
+
+
+
