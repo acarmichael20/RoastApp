@@ -2,7 +2,7 @@
 A shiny app that provides cooking times for beef oven roast
 
 ### Backround
-For several years, I have been using a spreadsheet to estimate the cooking time of oven roasts.  The data used to estimate cooking times comes from [Canada Beef](https://canadabeef.ca/oven-roast-know-how/)  
+For several years, I have been using a spreadsheet to estimate the cooking time of oven roast.  The data used to estimate the cooking time comes from [Canada Beef](https://canadabeef.ca/oven-roast-know-how/)  
 
 ### Problem
 Recently, I passed the spreadsheet on to a family member and while trying to show them how to use it, realized the spreadsheet was clunky and not user friendly.  
